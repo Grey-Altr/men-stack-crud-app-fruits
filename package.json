@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/Grey-Altr/men-stack-crud-app-fruits#readme",
   "dependencies": {
+    "dotenv": "^16.4.7",
     "ejs": "^3.1.10",
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "mongoose": "^8.10.1"
   }
 }
