@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Grey-Altr/men-stack-crud-app-fruits/issues"
   },
-  "homepage": "https://github.com/Grey-Altr/men-stack-crud-app-fruits#readme"
+  "homepage": "https://github.com/Grey-Altr/men-stack-crud-app-fruits#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
